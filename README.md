@@ -111,4 +111,4 @@ Demonstrates production-grade patterns for:
 
 ## License
 
-[Specify License]
+MIT
